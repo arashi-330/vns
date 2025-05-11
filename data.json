@@ -181,5 +181,89 @@
         "url": "https://lzacg.org/482"
       }
     ]
+  },
+   {
+    "title": "Trinoline Genesis",
+    "cover": "https://free4.yunpng.top/2025/05/11/682004f316da1.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/44a33a97"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/6160"
+      },
+      {
+        "provider": "绯月ScarletMoon",
+        "url": "https://bbs.kfpromax.com/read.php?tid=1003846&sf=f09&keyword=trinoline"
+    ]
+  },
+  {
+    "title": "大图书馆的牧羊人",
+    "cover": "https://free4.yunpng.top/2025/05/11/68200848a26f1.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/pc50ac4e"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/1003"
+      }
+    ]
+  },
+  {
+    "title": "大图书馆的牧羊人 ～课馀的尾巴时光～",
+    "cover": "https://free4.yunpng.top/2025/05/12/6820cb093f0fc.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/39a62e3f"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/413"
+      }
+    ]
+  },
+  {
+    "title": "大图书馆的牧羊人 -Dreaming Sheep-",
+    "cover": "https://free4.yunpng.top/2025/05/12/6820cb093f0fc.jpg",
+    "platforms": [
+      "Windows"
+    ],
+    "downloads": [
+      {
+        "provider": "TouchGal",
+        "url": "https://www.touchgal.io/94eaa721"
+      },
+      {
+        "provider": "量子ACG",
+        "url": "https://lzacg.org/408"
+      }
+    ]
+  },
+  {
+    "title": "大图书馆的牧羊人 -Library Party-",
+    "cover": "https://free4.yunpng.top/2025/05/12/6820cc78e7204.jpg",
+    "platforms": [
+      "Switch"
+    ],
+    "downloads": [
+      {
+        "provider": "绯月ScarletMoon",
+        "url": "https://bbs.kfpromax.com/read.php?tid=923974&sf=db8"
+      }
+    ]
   }
 ]
